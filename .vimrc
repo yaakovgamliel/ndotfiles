@@ -40,7 +40,7 @@ let g:syntastic_check_on_open = 1
 let g:syntastic_check_on_wq = 0
 
 "Theme
-color grb256
+color tpope
 
 "Golang
 autocmd FileType go nmap <leader>b  <Plug>(go-build)
